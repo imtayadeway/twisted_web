@@ -1,10 +1,9 @@
 <?php
 
-$page = "Home";
+$page = "Services";
 
 include('includes/header.html');
 include('includes/navbar.html');
-include('includes/home.html');
 include('includes/footer.html');
 
 ?>
